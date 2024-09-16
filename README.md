@@ -1,5 +1,5 @@
 # Pong Soccer
-Este projeto foi desenvolvido como parte de um trabalho acadêmico na disciplina de Algoritmos, e em colaboração com meu colega Erick Schneider Rodrigues. O objetivo foi criar uma versão do clássico jogo Pong, incorporando elementos do futebol, resultando em uma experiência divertida e dinâmica chamada Pong Soccer.
+Este projeto foi desenvolvido como parte de um trabalho acadêmico na disciplina de Algoritmos, e em colaboração com meu colega @ErickSchneiderRodrigues. O objetivo foi criar uma versão do clássico jogo Pong, incorporando elementos do futebol, resultando em uma experiência divertida e dinâmica chamada Pong Soccer.
 
 ## Descrição do Projeto
 Pong Soccer combina a mecânica simples do Pong com a temática e regras do futebol. Os jogadores controlam raquetes que atuam como jogadores de futebol, tentando defender seu gol e marcar pontos no gol adversário. O jogo foi projetado para ser jogado por duas pessoas em uma mesma tela, promovendo interação e competitividade.
